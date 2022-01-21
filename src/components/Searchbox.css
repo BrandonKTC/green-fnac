@@ -1,0 +1,10 @@
+.searchbar{
+  font-size: 30px;
+  position: relative;
+  margin-left: 27%;
+  margin-top:2%;
+  width: 50%;
+  border-radius: 15px;
+  outline: none;
+}
+
